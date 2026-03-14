@@ -1,13 +1,13 @@
 # 🛡️ BETA BOT 🛡️
 > **Developed by: ANTO** 🚀
 
-Selamat datang di repository **Beta Bot**. Ini adalah bot WhatsApp pribadi yang dibangun kembali setelah 1 tahun vakum dari dunia persilatan. Bot ini fokus pada fungsionalitas, keamanan, dan fitur eksklusif untuk komunitas **AstuteAstute.
+Selamat datang di repository **Beta Bot**. Ini adalah bot WhatsApp pribadi yang dibangun kembali setelah 1 tahun vakum dari dunia persilatan. Bot ini fokus pada fungsionalitas, keamanan, dan fitur eksklusif untuk komunitas **Beta Bot.
 
 ----
 ## 🌟 Fitur Utama (Beta Version)
 
 - ✅ **RVO Bypass (View Once)** – Otomatis nangkis dan simpan pesan sekali lihat ke folder download.
-- 🔐 **Owner Only Mode** – Kendali penuh hanya di tangan **Sorot**.
+- 🔐 **Owner Only Mode** – Kendali penuh hanya di tangan **Anto**.
 - 📋 **Astute Beta Verification** – Sistem pendaftaran ID otomatis untuk akses website Astute.
 - 📥 **Auto-Download Media** – Semua media yang masuk langsung tersimpan rapi di `/sdcard/Download/`.
 - 🛡️ **Anti-Delete Message** – (WIP) Jangan biarkan pesan rahasia hilang begitu saja.
